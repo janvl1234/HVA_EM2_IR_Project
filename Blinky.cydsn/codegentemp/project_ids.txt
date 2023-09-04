@@ -1,0 +1,6 @@
+C:\Users\janvl\Documents\HvA\HVA_EM2_IR_Project\Blinky.cydsn\Blinky.cyprj|898b1502-bddd-48d8-b104-1fcea264b240
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|c7d52acd-918e-4b24-9413-c33f169ef8e4
+C:\Users\janvl\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|5f4ff242-406a-4621-b2cf-1bdd73b943fe
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|4daef942-78de-4ebd-95dd-12e924fee565
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|cefca73a-4626-4152-b649-a0293f4788e4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|8d44a499-3dfc-4e3b-a3d2-5474d1cc2932
